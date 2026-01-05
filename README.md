@@ -1,13 +1,18 @@
 ## `👤 Me`
-Backend developer with a focus and passion for cibersecurity and offensive security techniques (pentesting).
-Experience building scalable and maintainable APIs using Node.js (NestJS) and modern backend practices.
-Currently focused and strengthening my skills in application security and web pentesting through hands-on labs in controlled environments.
+Backend developer with experience building APIs and server-side applications, mainly using Java and Spring Boot.
+
+Currently focusing on offensive security and penetration testing, especially on web applications and APIs. I use my development background to better understand how vulnerabilities are introduced at code and architecture level.
 
 ## `🔬 Current focus`
 
-- 🔐 Secure backend development
-- 🛡️ Application security (OWASP Top 10)
 - 🧪 Pentesting
+- 🛡️ Application security (OWASP Top 10)
+- 🔐 Secure backend development
+
+## `🧠 Mindset`
+Understanding how software is built is key to understanding how it breaks.
+
+Always learning, testing, and improving, from both the developer and attacker perspective.
 
 ## `🛠️ Development`
 
